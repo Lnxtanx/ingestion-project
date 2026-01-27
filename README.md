@@ -8,7 +8,7 @@ A high-performance, full-stack application designed to ingest and query logs eff
 
 ---
 
-## 🚀 Features
+## Features
 
 - **High-Throughput Ingestion**: Robust HTTP POST API for log ingestion.
 - **Advanced Querying**: Filter by Log Level, Resource ID, Message, and Date Range.
@@ -17,27 +17,27 @@ A high-performance, full-stack application designed to ingest and query logs eff
 
 ---
 
-## 📸 Showcase
+## Showcase
 
-### 🔍 Error Log Monitoring
+### Error Log Monitoring
 Filter critical issues instantly with color-coded alerts.
 ![Error Logs](/frontend/public/error.png)
 
-### 🐞 Debug & Inspection
+### Debug & Inspection
 Deep dive into system behavior with detailed debug logs.
 ![Debug Logs](/frontend/public/debug.png)
 
-### ⏱️ Time-Series Filtering
+### Time-Series Filtering
 Precise date-range controls for historical data analysis.
 ![Time Filter](/frontend/public/time.png)
 
-### 📊 Full Warning Visibility
+### Full Warning Visibility
 Track system warnings before they escalate.
 ![Warning Logs](/frontend/public/all-level.png)
 
 ---
 
-## 🛠️ Setup & Run
+## Setup & Run
 
 ### Backend
 1. Go to backend: `cd backend`
@@ -54,7 +54,7 @@ Track system warnings before they escalate.
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 - **Backend**: Express.js with a custom synchronous file-locking mechanism to ensure data integrity without an external DB.
 - **Frontend**: React + Tailwind CSS v4. Implements optimistic UI updates and debounced filtering for seamless performance.
