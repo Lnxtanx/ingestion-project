@@ -2,7 +2,7 @@
 
 A high-performance, full-stack application designed to ingest and query logs efficiently. Built with **Node.js/Express** for the backend and **React (Vite)** with **Tailwind CSS** for a premium, responsive frontend.
 
-> **Submitted by:** Vivek  
+>  
 > **Portfolio:** [cv.vivekmind.com](https://cv.vivekmind.com)  
 > **Email:** [vivek@vivekmind.com](mailto:vivek@vivekmind.com)
 
